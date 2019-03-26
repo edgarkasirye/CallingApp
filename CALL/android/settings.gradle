@@ -1,0 +1,3 @@
+rootProject.name = 'CALL'
+
+include ':app'
